@@ -3,7 +3,7 @@
 medici
 ======
 
-Double-entry accounting system for nodejs + mongoose for testing purposes
+Double-entry accounting system for nodejs + mongoose 
 
 ## Basics
 
