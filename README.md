@@ -3,9 +3,9 @@
 medici
 ======
 
-Double-entry accounting system for nodejs + mongoose 
+Double-entry accounting system for nodejs + mongoose. 
 
-## Basics
+## Basics and Overview
 
 To use Medici you will need a working knowledge of JavaScript, Node.js, and Mongoose.
 
